@@ -61,4 +61,4 @@ $ npm run dev
 
 ---
 
-  <h3 align="center"> Developed by <a href="https://www.linkedin.com/in/evander-inacio/">Evander Inácio</a> ☕</h3>
+  <h3 align="center"> Developed by Daniel Anderson </h3>
